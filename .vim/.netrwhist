@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/administrator/code/titan_current/titan/mgmt/web2/src/client/volume'
+let g:netrw_dirhist_2='/home/administrator/code/titan_current/titan/mgmt/web2/plugin'
