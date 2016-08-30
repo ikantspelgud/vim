@@ -1,3 +1,6 @@
+" .vimrc from https://github.com/ikantspelgud/vim.git
+
+
 filetype off
 call pathogen#infect()
 filetype plugin indent on
