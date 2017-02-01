@@ -1,2 +1,2 @@
-mv vim/.* ./
-rm -r vim
+cp vimrc ~/.vimrc
+cp -r vim ~/.vim

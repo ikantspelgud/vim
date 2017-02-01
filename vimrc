@@ -1,13 +1,6 @@
 " .vimrc from https://github.com/ikantspelgud/vim.git
 
 
-filetype off
-call pathogen#infect()
-filetype plugin indent on
-
-
-let livescript_compiler = '~/.vim/bundle/bin/lsc'
-
 set ruler
 set hlsearch
 set ignorecase
